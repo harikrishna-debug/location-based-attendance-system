@@ -1,0 +1,24 @@
+# Location-Based Attendance System - Python Dependencies
+
+# Flask web framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# MySQL database connector
+mysql-connector-python==8.1.0
+
+# Alternative MySQL connector (choose one)
+# PyMySQL==1.1.0
+
+# HTTP requests (for ESP32 - included in MicroPython)
+# requests==2.31.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Logging and utilities
+colorlog==6.7.0
+
+# Development and testing
+pytest==7.4.2
+pytest-flask==1.2.0
